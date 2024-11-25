@@ -1,0 +1,7 @@
+deep-translator==1.8.5
+pronouncing==0.2.0
+gruut==2.2.0
+gTTS==2.3.2
+genanki==0.12.1
+nltk==3.8.1
+scikit-learn==1.2.2

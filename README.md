@@ -50,7 +50,7 @@ Cada flashcard inclui:
 Para executar o projeto, você precisará de Python 3.x e das seguintes bibliotecas:
 ```bash
 pip install deep-translator pronouncing gruut gTTS genanki nltk scikit-learn
-
+```
 ## **Como Usar**
 1. **Insira o Texto**:
    - Substitua o texto de exemplo no código por qualquer texto em inglês de sua escolha.
